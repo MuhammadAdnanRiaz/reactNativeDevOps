@@ -48,6 +48,7 @@ const App = () => {
             </View>
             <View style={styles.sectionContainer}>
               <Text style={styles.sectionTitle}>See Your Changes</Text>
+              <Text style={styles.sectionTitle}>Hey its me Adnan Riaz</Text>
               <Text style={styles.sectionDescription}>
                 <ReloadInstructions />
               </Text>
